@@ -1,0 +1,30 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets/
+
+# Merchant data and research captures (keep sanitized templates in Git)
+data/private/
+clients/
+research-captures/
+exports/
+*.har
+
+# Local tools and generated files
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
