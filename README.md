@@ -12,7 +12,7 @@
 
 ## 專案背景
 
-[cloud.md](cloud.md) 是背景與決策的唯一主要版本；[CLAUDE.md](CLAUDE.md) 與 [AGENTS.md](AGENTS.md) 指向它。沿用使用者指定的 `cloud.md` 名稱。
+[MEMORY.md](MEMORY.md) 保存專案背景與決策；[CLAUDE.md](CLAUDE.md) 與 [AGENTS.md](AGENTS.md) 指向它。
 
 第一階段以美國市場為準，服務 Shopify 商家優先，探索 WooCommerce、Wix、BigCommerce、Shopware 與 Stripe 管理式整合。只要提供產品、賣點、目標客戶，就能開始諮詢；實作仍需商家授權帳號、確認事實與營運政策。
 
