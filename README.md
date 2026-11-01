@@ -18,6 +18,6 @@
 
 ## Repository 狀態
 
-本機 Git 使用 `main` 分支；尚未指定或連結遠端。現階段是研究與服務設計 repository，尚無應用程式、部署環境或客戶實測數據。
+Git 使用 `main` 分支；遠端 repository 為 [tony2037/ztex-aeo](https://github.com/tony2037/ztex-aeo)，SSH 位址為 `git@github.com:tony2037/ztex-aeo.git`。現階段是研究與服務設計 repository，尚無應用程式、部署環境或客戶實測數據。
 
 機密、客戶原始資料、訂單與付款資訊不得放進 Git。可分享的研究與去識別化範本才放在此處。
